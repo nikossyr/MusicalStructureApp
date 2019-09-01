@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="library">Library</string>
+    <string name="now_playing">Now Playing</string>
+</resources>
